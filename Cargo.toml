@@ -1,0 +1,8 @@
+[package]
+name = "rust-on-c64"
+version = "0.1.0"
+authors = ["Tibor Nagy <xnagytibor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2.48"
